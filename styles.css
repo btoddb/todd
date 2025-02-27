@@ -1,9 +1,6 @@
 body {
     margin: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    /*background-image: url(./images/todd.jpg);*/
-    /*background-size: contain;*/
-    /*background-repeat: no-repeat;;*/
+    font-family: Courier New, Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .border {
@@ -17,7 +14,7 @@ body {
     text-align: center;
     align-items: center;
 
-    margin: 0px auto;
+    margin: 0 auto;
     padding: 20px;
     width: 400px;
 
